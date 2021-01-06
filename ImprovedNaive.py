@@ -1,5 +1,3 @@
-#Algorithm Help taken from internet but i fully understand the code
-
 def ImprovedNaive(String, Pattern):
     i = 0
     while i <= len(String) - len(Pattern):
