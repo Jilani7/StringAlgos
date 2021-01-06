@@ -1,5 +1,3 @@
-# Algorithm is taken from slides and i code it here I fully understand what code is doing
-
 def PiFunction(p):
 	l = len(p)
 	pi = [0]
