@@ -1,6 +1,3 @@
-# Note: Algorithm is taken from internet how can I write it on my own. But i fully understand the implementation of algorithm
-# Its working is explained on pdf which I uploaded
-
 def BoyerMooreHorspool(pattern, text):
     m = len(pattern)
     n = len(text)
